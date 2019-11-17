@@ -1,3 +1,7 @@
+---
+marp: false
+---
+
 # Growth Hacking 101
 Un cours tourné vers la pratique
 
@@ -462,6 +466,12 @@ https://moz.com/blog/customer-journey-maps-whiteboard-friday
 
 ---
 
+## Les différents modèles de croissance 
+![width:600px](https://nsm09.casimages.com/img/2019/11/17//19111711205419055416515223.jpg)
+
+
+---
+
 ## Le framework AARRR
 ![width:600px](https://miro.medium.com/max/3297/1*1d9WLWmLQ086cFa2jQbNTA.png)
 
@@ -637,26 +647,31 @@ https://www.ppchero.com/google-analytics-cohort-analysis/
 
 ---
 
+# En résumé
+Voilà le processus growth
 
-![bg](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/10346602_312073175619258_3899355607284643238_n.jpg?_nc_cat=102&_nc_oc=AQlFSAjxvBfPdR0O-FVPHjY45smDUDlay87-qytN5uu-d-aOvgklB8XWGW7wL-we1koziARrnzaWtR0XDf9GKuZd&_nc_ht=scontent-cdg2-1.xx&oh=8ae826f46a1d0c0ff38dd076ca22c723&oe=5E2E7C68)
+---
+
+
+![bg](https://nsm09.casimages.com/img/2019/11/18//19111812162819055416515266.jpg)
 
 ---
 
 ## Cas pratique
 
 Vous êtes une entreprise de vente de BonBons :
-Déterminez votre vision d’entreprise
-Detaillez les competences prrécises de votre équipe
-Définissez une OMTM et expliquez votre choix
-Définissez trois autres métriques que vous pensez utiles (explication)
-Tracez vos objectifs SMART sur les 3 prochains mois (pour trois canaux d’acquisition)
-Creez une arborescence de persona idéales
-Pensez vous que vos persona réelles vont changer ?
-Simulez vos objectifs smart dans le framework aarrr
-Creer un backlog de tactiques pour mener à bien vos objectifs
-Quels outils allez vous utiliser ? Comment et Pourquoi ?
-Comment allez vous prioriser vos tests ? (PIE/ICE/PXL)
-Comment allez vous verifier la pertinence de vos tests ?
+- Déterminez votre vision d’entreprise
+- Detaillez les competences prrécises de votre équipe
+- Définissez une OMTM et expliquez votre choix
+- Définissez trois autres métriques que vous pensez utiles (explication)
+- Tracez vos objectifs SMART sur les 3 prochains mois (pour trois canaux d’acquisition)
+- Creez une arborescence de persona idéales
+- Pensez vous que vos persona réelles vont changer ?
+- Simulez vos objectifs smart dans le framework aarrr
+- Creer un backlog de tactiques pour mener à bien vos objectifs
+- Quels outils allez vous utiliser ? Comment et Pourquoi ?
+- Comment allez vous prioriser vos tests ? (PIE/ICE/PXL)
+- Comment allez vous verifier la pertinence de vos tests ?
 
 ---
 
@@ -698,6 +713,51 @@ https://www.youtube.com/watch?v=ajccEoAhfmc
 https://www.youtube.com/watch?v=PRpMgOK0Lco
 
 ![bg right:50%](https://nsm09.casimages.com/img/2019/11/17//19111702092019055416514590.png)
+
+---
+
+## Workshop Lean Analytics & Growth Hacking 
+### Alistair Croll 
+
+
+https://www.youtube.com/watch?v=0cEfe9mSatM
+
+![bg right:50%](https://nsm09.casimages.com/img/2019/11/17//19111711253319055416515224.png)
+
+---
+
+## Liste de petites astuces de croissance
+
+https://ladder.io/playbook
+
+![width:800px](https://nsm09.casimages.com/img/2019/11/17//19111711421219055416515242.png)
+
+---
+
+## Petites histoires de réussites
+
+https://growthhackers.com/growth-studies
+
+![width:800px](https://nsm09.casimages.com/img/2019/11/18//19111812045019055416515261.png)
+
+
+
+---
+
+## Les meilleurs hacks
+
+https://hacks.socialwall.me/
+
+![width:800px](https://nsm09.casimages.com/img/2019/11/18//19111812044919055416515260.png)
+
+---
+
+## Les outils utilisés par les startups
+
+https://stackshare.io/stacks
+
+![width:800px](https://nsm09.casimages.com/img/2019/11/18//19111812044919055416515259.png)
+
 
 ---
 
