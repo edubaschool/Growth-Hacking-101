@@ -1,22 +1,3 @@
----
-marp: true
-paginate: true
----
-<!-- Global style -->
-<style>
-h1 {
-  color: #161617;
-  font-size: 75px;
-}
-
-h2{
-   font-size:45px; 
-}
-
-</style>
-
-
-
 # Growth Hacking 101
 Un cours tourné vers la pratique
 
@@ -85,20 +66,6 @@ Construire un Tableau de Bord pour mesurer ses campagnes
 Comment gérer ses cohortes
 
 ---
-
-<!--Scoped Style -->
-<style scoped>
-section{
-    background-color:crimson;
-}
-h1{
-    color:white;
-}
-p{
-    color:gold;
-}
-</style>
-
 
 # WTF IS GROWTH HAKING ?
 Définition et contexte
@@ -443,19 +410,6 @@ Combien les clients valent du berceau à la tombe.
 
 ---
 
-<!--Scoped Style -->
-<style scoped>
-section{
-    background-color:crimson;
-}
-h1{
-    color:white;
-}
-p{
-    color:gold;
-}
-</style>
-
 
 # Partie Pratique
 Ouff je n'y croyais même pas
@@ -531,32 +485,11 @@ Lien : https://www.youtube.com/watch?v=irjgfW0BIrw
 
 ---
 
-<!--Scoped Style -->
-<style scoped>
-section{
-    background-color:crimson;
-}
-h1{
-    color:white;
-}
-p{
-    color:gold;
-}
-</style>
-
 # Les outils du Growth Hacker
 ![bg right:40%](https://farm3.static.flickr.com/2522/3978429533_404124deef.jpg)
 
 ---
 
-<!--Scoped Style -->
-<style scoped>
-img{
-  display: block;
-  margin-left: 50px;
-  width: 40%;
-}
-</style>
 
 ## Petite revue des outils du Growth Hacker
 
@@ -616,18 +549,6 @@ Il y a un autre framework ICE un peu moins connu.
 temps pour implémenter l'idée?
 
 ---
-
-<!--Scoped Style -->
-<style scoped>
-img{
-    position:absolute;
-    top: 70px; left: 600px;
-}
-p{
-    float:left;
-    width:40%;
-}
-</style>
 
 ## ICEv2
 
