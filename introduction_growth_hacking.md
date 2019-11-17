@@ -3,6 +3,8 @@ Un cours tourné vers la pratique
 
 ![width:1000px](https://nsm09.casimages.com/img/2019/11/17//19111702284719055416514615.png)
 
+Nos cours de Growth Hacking Technique : https://www.eduba.school
+
 ®Copyright *Mikael Monjour*
 
 ---
@@ -177,19 +179,6 @@ Sinon Linkedin pour le futurs Freelance, ou ne pas hésiter à faire des message
 Si vous avez un portofolio pour ettayer vos compétences ça sera plus facile !
 
 ---
-
-<!--Scoped Style -->
-<style scoped>
-section{
-    background-color:crimson;
-}
-h1{
-    color:white;
-}
-p{
-    color:gold;
-}
-</style>
 
 
 # Récupérer les Bonnes informations
