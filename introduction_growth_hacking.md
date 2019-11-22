@@ -267,6 +267,24 @@ Les objectifs peuvent varier en fonction du budget de la taille de l'entreprises
 
 ---
 
+## Créer ses propres objectifs SMART
+
+> Petit tip : quand vous déclinez vos objectifs... je vous invite à les quantifier par jour !
+
+Exemple d'objectif:
+ 
+    Augmenter de 10 minutes le temps passé par nos utilisateurs sur notre plateforme sur les 3 prochains mois
+
+Le problème des objectifs comme ça à trois mois c'est qu'ils vont vous faire criser. Ils sont trop imprécis !
+
+C'est bien plus facile pour le cerveau de se dire : 
+
+    chaque jour je dois essayer d'augmenter le temps utilisateur de 7 secondes
+
+Faire du growth hacking c'est intégrer l'esprit `sprint` régulièrement utilisé par les développeurs.
+
+---
+
 ## Choisir la liste des KPI importants à suivre
 
 > Il n'y a pas de KPI meilleur qu'un autre, 
@@ -495,10 +513,13 @@ Lien : https://www.youtube.com/watch?v=irjgfW0BIrw
 
 ![](https://nsm09.casimages.com/img/2019/10/22//19102201512219055416473389.png)
 
+Cette toolbox est plutôt technique
+
 https://technical-tools-for-growth.zeef.com/mikael.monjour
 
 ![](https://nsm09.casimages.com/img/2019/10/22//19102201512119055416473388.png)
 
+Celle ci est très adaptée pour les généralistes
 
 https://tool-growth-hacking.zeef.com/fr/franck-gautier
 
@@ -506,7 +527,6 @@ https://tool-growth-hacking.zeef.com/fr/franck-gautier
 
 ## Choisir ses outils : Le Framework ACP (Apprentissage, Coût, Prix)
 
-<br><br>
 
 ![](https://nsm09.casimages.com/img/2019/11/22//19112201180619055416522159.png)
 
@@ -522,6 +542,24 @@ L'objectif c'est d'avoir le ratio le plus bas pour comparer les différents cann
 - C'est rare de se souvenir de toutes les idées que l'on a eu durant l'année.
 - Il permet de regarder les différentes directions que l'on peut prendre et/ou l'on doit monter en compétences.
 - Si le backlog est documenté (chiffres) il permet d'aller directement au meilleur point d'execution
+
+
+| Tactique | Temps d'apprentissage en €|     Achat de l'outil ou du service | CA Généré | Ratio ACP %| internalisé (o/n) |
+| :------------ | :-------------: | :-------------: | :-------------: | :-------------: | -------------: |
+| Facebook Ads  |     4 heures * 25€/h = 100 € | 200 € | 1500 € | (100 + 200) / 1500 = 0.2 %| o |
+| Génération d'email pour 1000 (nom prenom)   |     2 heures * 35€/h = 80 € |  20€ | 250 € | (80 + 20) / 250  = 0.4 %| n
+
+
+
+- On considère le temps d'exécution comme un apprentissage
+- Vous pouvez très bien l'ajouter dans une autre colonne mais il faudra additionner son coût à celui de l'apprentissage et il ne faudra pas l'ajouter aux achats qui sont généralement l'endroit pour les prestataires de services ou et le coûts liés à l'outil acheté
+
+Dans ce backlog on remarque que le canal d'acquisition le plus pertinent est facebook (ratio plus faible)
+
+> Attention ça ne veut pas dire quelle est la meilleure tactique. Seulement que l'une est plus performante que l'autre. L'une et l'autre peuvent être complémentaires et être éxécutées en même temps
+
+> Attention ici le terme backlog est plutôt synonyme de WBS que de Backlog de Projet
+
 
 ---
 
