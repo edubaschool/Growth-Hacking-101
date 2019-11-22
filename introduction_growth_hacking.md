@@ -508,8 +508,11 @@ https://tool-growth-hacking.zeef.com/fr/franck-gautier
 
 <br><br>
 
-$${Temps \; d'apprentissage \; en \;€ \; + Coût \;d'achat
-\over CA \; généré \;(ou \; escompté)}.$$
+![](https://nsm09.casimages.com/img/2019/11/22//19112201180619055416522159.png)
+
+L'objectif c'est d'avoir le ratio le plus bas pour comparer les différents cannaux d'acquisitions.
+
+> Le canal d'acquisition qui à le taux le plus bas est le plus intéréssant !
 
 ---
 
