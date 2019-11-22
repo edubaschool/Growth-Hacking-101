@@ -435,7 +435,7 @@ Ouff je n'y croyais même pas
     Une persona idéale (ou hypothétique) est une persona qui découle de la vision d'entreprise et qui n'est encore vérifiée par les chiffres terrain. Elles ne doivent pas être de simples suppositions mais issues d'études de marché.
 
 **Les persona réelles** :
-    Une personna réelle est une persona qui découle non pas de la vision d'entreprise mais de la remontée des chiffres sur le terrain (metrics, ratios, ventes)
+    Une persona réelle est une persona qui découle non pas de la vision d'entreprise mais de la remontée des chiffres sur le terrain (metrics, ratios, ventes)
 
 ---
 
@@ -448,6 +448,12 @@ Toute hypothèse doit être suffisament simplifiée pour être comprises. Même 
 
 Ne pas hésiter à commencer bêtement (homme/ femme - Jeune/ vieux)
 
+> Les persona sont la première pierre qui va nous aider à savoir quelles données nous intéressent et ou les récupérer.
+
+        Choisir d'échelonner par métier nous permet de savoir que nous allons nous concentrer sur linkedin ou un réseau de professionnels particulier.
+
+        Choisir d'échelonner par activité sportive nous invite à compléter les données plutôt sur facebook.. même si d'autres canaux sont sympas ; )
+
 ---
 
 <!--Scoped Style -->
@@ -457,16 +463,57 @@ Ne pas hésiter à commencer bêtement (homme/ femme - Jeune/ vieux)
 ![width:800px](https://nsm09.casimages.com/img/2019/10/22//19102205432619055416473645.png)
 
 
+
 ---
 
 ## Générer ses micro persona par arborescence
 
 ![width:900px](https://nsm09.casimages.com/img/2019/10/22//19102204421819055416473551.png)
 
+Comme pour toute action growth C1 représente le profil à prioriser
+
+---
+
+## Quel intérêt de créer des persona en arborescence ?
+
+Le gros plus que cette démarche apporte par rapport aux persona traditionnelles (que je trouve peu utiles voir complètement inutiles) c'est de pouvoir faire une esquisse rapidement (arborescence des persona idéales) et de la comparer ensuite à nos persona réelles (qui sont vraiment nos clients).
+
+Ce calque nous permet de tracer une direction :
+
+- Si mes persona réelles calquent parfaitement mes persona (idéales)
+  
+        Les personnes qui achètent sont celles qui sont sensées le faire
+
+        Si la croissance n'est pas là ... que puis-je faire pour améliorer mon tunnel de conversion ou l'acquisition ?
+
+        FOCUS SUR L'EXECUTION (TEST)
+
+- Si mes persona réelles ne ressemblent pas à mes persona (idéales)
+
+        Les personnes qui achètent ne sont pas celles qui sont sensées le faire
+
+        C'est possible que :
+
+        - Tu n'as pas de product market fit
+        - Que ton contenu n'est pas le bon
+        - Que ton produit c'est de la merde donc personne n'en veut !
+        - Tu dépenses pas suffisament sur le design donc ton produit c'est de la merde donc personne n'en veut !
+
+        Résourde ces problèmes :
+
+        - Appeller tes premiers clients (pas ta famille ou tes amis !)
+        - Va à `châtelet` pitcher ton produit pour voir si ta unique value proposition est claire
+        - Poses des questions concrètes sur des groupes ou à des professionnels concernés
+        - Si tu ne les écoutes il ne seront pas là pour te redire que ton produit (ou ta manière de le présenter) c'est de la merde
+        - Si en plus tu ne les paient pas ils vont te prendre pour un casse couilles !
+
+        - BREF écoute et test ! Car même si galères tu apprends !
+
 ---
 
 Votre parcours client hypothétique
 (customer journey)
+
 ------
 
 ![width:600px](https://nsm09.casimages.com/img/2019/10/22//19102203253119055416473452.png)
