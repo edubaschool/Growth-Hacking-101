@@ -36,7 +36,7 @@ Un cours tourné vers la pratique
 - Connaître son équipe
 - Créer ses propres objectifs SMART
 - Choisir la liste des KPI importants à suivre
-- Décider de sa OMTM ou North Star Metric
+- Décider de son OMTM ou North Star Metric
 - Quelles informations récolter pour générer ses persona
 
 ---
@@ -73,7 +73,7 @@ Comment gérer ses cohortes
 
 ---
 
-# WTF IS GROWTH HAKING ?
+# WTF IS GROWTH HACKING ?
 Définition et contexte
 
 ![bg right:40%](https://www.pxwall.com/wp-content/uploads/2019/04/Joker-Tablet-Wallpaper.jpg)
@@ -130,7 +130,7 @@ Attention quand on rectute un Growth il faut faire attention à ses spécialité
 
 ---
 
-## Growth Hacking vs Growth Martkering
+## Growth Hacking vs Growth Marketing
 
 Le Growth Hacker essaie de créer un
 nouveau terrain de jeu
@@ -196,6 +196,7 @@ Savoir se préparer avant d'exécuter
 
 Connaître ses objectifs de marque
 et sa vision d'entreprise à :
+
 ---
 
 
@@ -302,7 +303,7 @@ Le livre c'est celui là :
 
 ## Le concept de OMTM
 
-Le concept de OMTM (One metric That Matters/ Nord Star Metric) est facile à comprendre.
+Le concept de OMTM (One metric That Matters/ North Star Metric) est facile à comprendre.
 
 > Une entreprise à besoin de concentrer ses efforts pour gagner en efficacité et ne pas perdre d'énergie.
 
