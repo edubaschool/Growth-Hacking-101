@@ -245,14 +245,19 @@ Design Value proposition :
 ---
 
 ## Créer ses propres objectifs SMART
+
 Specifique
 - Ex : Développer une communauté engagée sur entrepreneuriat
+
 Mesurable
 - Ex : Nombre de suiveurs, taux de réponses, rapidité des réponses
+
 Ambiteux
 - Ex : 2000 personnes sur le groupe fb ( 22 *jour) et 10% d'interaction
+
 Réaliste
 - Ex : 1000 personnes sur le groupe fb (11 *jour) et 3% d'interaction
+
 Temporel
 - Ex : 3mois
 
