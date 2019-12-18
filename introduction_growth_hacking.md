@@ -368,7 +368,15 @@ L'objectif est d'avoir une vision d'ensemble, facilement quantifiable et itérab
 
 4. **Elle inspire une culture de l'expérimentation.**
    
-    Maintenant, vous devriez apprécier l'importance de l'expérimentation. Il est essentiel de parcourir le cycle build→measure→learn aussi rapidement et aussi rapidement que possible.  aussi souvent que possible. Pour y parvenir, il faut encourager activement l'expérimentation. Cela mènera à de petits échecs, mais vous ne pouvez pas punir cela. Bien au contraire : l'échec qui vient d'un test planifié et méthodique est simplement une façon d'apprendre. Au bout du compte, cela fait avancer les choses. C'est comme ça qu'on évite l'échec. Tous les membres de votre organisation devraient être inspirés et encouragés à faire des expériences. Quand tout le monde se mobilise autour de l'OMTM et qu'on lui donne l'occasion d'expérimenter indépendamment pour l'améliorer, c'est une force puissante.
+    Maintenant, vous devriez apprécier l'importance de l'expérimentation. 
+    
+    Il est essentiel de parcourir le cycle build→measure→learn aussi rapidement et aussi souvent que possible.  
+    
+    Pour y parvenir, il faut encourager activement l'expérimentation. Cela mènera à de petits échecs, mais vous ne pouvez pas punir cela. 
+    
+    Bien au contraire : l'échec qui vient d'un test planifié et méthodique est simplement une façon d'apprendre. Au bout du compte, cela fait avancer les choses. C'est comme ça qu'on évite l'échec. 
+    
+    Tous les membres de votre organisation devraient être inspirés et encouragés à faire des expériences. Quand tout le monde se mobilise autour de l'OMTM et qu'on lui donne l'occasion d'expérimenter indépendamment pour l'améliorer, c'est une force puissante.
 ---
 
 ## Choisir sa OMTM
