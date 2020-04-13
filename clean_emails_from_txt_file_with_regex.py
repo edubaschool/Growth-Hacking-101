@@ -17,4 +17,4 @@ with open("emails_cleaned.txt", "w") as exit_file:
 	for email in sorted(emails):
 		exit_file.write(email + "\n")
 		
-#L'execution doit se faire dans le même dossier !
+#L'execution doit se faire dans le même dossier ! 
